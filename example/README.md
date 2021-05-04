@@ -26,8 +26,6 @@ The number of trainers will be at least 1 and not more than 100, and the number 
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
-
 ```python
 >>> solution.solution([1,1])
 >>> 2
